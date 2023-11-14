@@ -19,7 +19,7 @@ Install using:
  pip install --extra-index-url http://185.128.246.103/pypicloud/simple/ --trusted-host 185.128.246.103 dtw_inference_utils
 ```
 
-If you also want to be able to run local models, use:
+If you also want to be able to run local models, use this. Note that a GPU is needed for vllm.
 ```bash
 pip install --extra-index-url http://185.128.246.103/pypicloud/simple/ --trusted-host 185.128.246.103 "dtw_inference_utils[server]"
 ```
