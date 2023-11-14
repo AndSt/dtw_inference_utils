@@ -1,0 +1,9 @@
+openai
+tiktoken
+
+pandas
+numpy
+
+aiohttp
+
+click
