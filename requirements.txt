@@ -6,4 +6,7 @@ numpy
 
 aiohttp
 
+fastapi
+uvicorn
+
 click
